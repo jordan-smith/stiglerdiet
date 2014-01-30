@@ -1,0 +1,25 @@
+SOLUTION TO STIGLER DIET PROBLEM
+
+Optimal primal solution's nonzero components are:
+x(15) = 0.013535
+x(24) = 0.00037032
+x(30) = 0.02272
+x(46) = 0.011596
+x(69) = 0.04778
+
+Optimal dual solution y =
+	2.4095e-007
+    0
+    0.044019
+    0
+    0
+  	1.3878e-017
+    0.013484
+  	0.00073733
+   	0.00013847
+
+Optimal objective value:
+	$0.096001
+
+Optimal annualized cost:
+	$35.041
